@@ -37,7 +37,15 @@ func GetBio() Bio {
 	}
 }
 ```
+<h2 align="center">Github stats :bar_chart:</h2>
 
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Fatima-hub33}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+<p align="center"> <img src= "https://github-readme-stats.vercel.app/api?username=fatima&show_icons=true&theme=radical"/> </p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 ### Programming Languages 🌐
 
