@@ -8,6 +8,7 @@
 [![Twitter: Fatima Zahir](https://img.shields.io/twitter/follow/FatimaZahir?style=social)](https://www.linkedin.com/in/full-stack-webdeveloper-181583234/)
 [![Linkedin: Fatima Developer](https://img.shields.io/badge/-fatimazahir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/full-stack-webdeveloper-181583234/)
 [![GitHub Fatima-hub333](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Fatima-hub333)
+[![wakatime](https://wakatime.com/badge/user/0c1f85f3-0ea1-4402-af40-bf62a3971b9e.svg)](https://wakatime.com/@0c1f85f3-0ea1-4402-af40-bf62a3971b9e)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" > A little more about me... 
@@ -41,24 +42,14 @@ func GetBio() Bio {
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Fatima-hub33}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Fatima-hub333}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-<p align="center"> <img src= "https://github-readme-stats.vercel.app/api?username=fatima&show_icons=true&theme=radical"/> </p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
-
-### Programming Languages 🌐
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" width="24">](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="24">](https://vuejs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
-|---|---|---|---|---|---|
- 
-### Tools 🛠️
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" width="24">](https://redis.io/) | Varnish Cache | many more...
-|---|---|---|---|---|---|---|---|---|
+<p align="left"> <img src= "https://github-readme-stats.vercel.app/api?username=Fatima-hub333&show_icons=true&theme=radical" width="500"/> </p> <p align="right"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FatimaZ" width="500"/>
 
 <!--START_SECTION:waka-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatima-hub333)](https://github.com/Fatima-hub333/github-readme-stats)
+
+
 <!--END_SECTION:waka-->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
