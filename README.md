@@ -100,10 +100,11 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=Udemy&logoColor=white)
 </details>
 
-# Recent Activity :zap:
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
+<details>
+  <summary>:zap: <h2> Recent GitHub Activity </h2></summary>
+  
+</details>
+    
 <details>
   <summary>:zap: <h2> GitHub Stats </h2></summary>
 
