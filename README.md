@@ -99,11 +99,6 @@
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=flat&logo=edX&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=Udemy&logoColor=white)
 </details>
-
-<details>
-  <summary>:zap: <h2> Recent GitHub Activity </h2></summary>
-  
-</details>
     
 <details>
   <summary>:zap: <h2> GitHub Stats </h2></summary>
