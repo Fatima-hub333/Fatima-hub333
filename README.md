@@ -1,9 +1,30 @@
-![](readme-banner.png)
+# Hi there, I'm Fatima - aka [Full Stack WebDeveloper](https://fatima-hub333.github.io/Website_Mobile_Version_Repeated/) 👋 
 
-<h2> Hi, I'm Fatima Zahir! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Sociologist at <a href="http://www.unb.br">International Islamic University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web Developer at <a href="https://www.thoughtworks.com">Baksh International</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+## I'm Mother, Developer, and Self-Learner!!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2022 Goals: Learn more about web development & enhance my coding skills 
+- ⚡ Fun fact: I love to work and play games
+
+### Connect with me:
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/[ICON SLUG].svg" />
+
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 [![Twitter: Fatima Zahir](https://img.shields.io/twitter/follow/FatimaZahir?style=social)](https://www.linkedin.com/in/full-stack-webdeveloper-181583234/)
 [![Linkedin: Fatima Developer](https://img.shields.io/badge/-fatimazahir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/full-stack-webdeveloper-181583234/)
