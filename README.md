@@ -100,6 +100,9 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=Udemy&logoColor=white)
 </details>
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <details>
   <summary>:zap: <h2> GitHub Stats </h2></summary>
 
