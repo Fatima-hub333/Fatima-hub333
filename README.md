@@ -119,7 +119,7 @@
 <details>
   <summary>:zap: <h2> WakaTime Stats </h2></summary>
   
-<img align="center" alt="Fatima WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=FatimaZ&show_icons=true&hide_border=false&title_color=D2691E&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+[![wakatime](https://wakatime.com/badge/user/0c1f85f3-0ea1-4402-af40-bf62a3971b9e.svg)](https://wakatime.com/@0c1f85f3-0ea1-4402-af40-bf62a3971b9e)
   
 </details>
 
