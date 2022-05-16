@@ -8,11 +8,20 @@
 
 ### Connect with me:
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" /> &nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/medium.svg" />
+<p>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" alt="Fatima youtube Profile" height="32" width="32">
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/Fatima-hub333">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="Fatima Github Profile" height="32" width="32">
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/full-stack-webdeveloper-181583234/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="Fatima linkedin Profile" height="32" width="32">
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://twitter.com/Fatima_developr">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" alt="Fatima twitter Profile" height="32" width="32">
+  </a>
+</p>
 
 ### Languages:
 
