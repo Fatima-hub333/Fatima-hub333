@@ -50,7 +50,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fatima-hub333&show_icons=true&locale=en" alt="Fatima Zahir" /></p>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fatima-hub333&" alt="fed1k" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fatima-hub333&" alt="Fatima Zahir" /></p>
 
 <h2> WakaTime Stats </h2>
   
