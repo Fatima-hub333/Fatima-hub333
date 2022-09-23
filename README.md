@@ -35,6 +35,9 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
+<br />
+<br />
+
 ## Certificates & Licenses
 <a href="https://www.credential.net/4e9cefc5-db97-451b-bf4b-c80f7aa28228" target= "_blank"><img 
 src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/50177592" width="150"></a>
@@ -43,6 +46,7 @@ src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certi
 <a href="https://www.credential.net/d523c488-2ec9-46fe-bf7d-b8d66299c9e5" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/54062880" width="150"></a>
 <a href="https://www.credential.net/08a2fcda-41ec-4c94-903a-3f4c43af86ac" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/56574760" width="150"></a>
 <a href="https://www.credential.net/e0f57378-4a08-4ebe-bc5c-6c8d3cc5c4c6" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/58586973" width="150"></a>
+<br />
 <br />
 
 <h2 align="center">Github stats :bar_chart:</h2>
